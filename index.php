@@ -23,6 +23,3 @@ function maFonctionParam($fname, $lname) {
 
 maFonctionParam("joe", "cray");
 
-
-
-
